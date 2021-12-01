@@ -16,7 +16,7 @@ CSS3<br>
 O layout do site foi desenvolvido durante o curso de CSS Flex Box da [Origamid](https://www.origamid.com/curso/css-flexbox/).
 
 ## 🌐 Projeto final
-[Clique aqui]() para acessar o projeto no ar!
+[Clique aqui](https://luizintrepido.github.io/flexblog/) para acessar o projeto no ar!
 
 
 ---

@@ -1,6 +1,5 @@
 # flexblog
 
-# bikcraft
  
 💻 Sobre o projeto
 Projeto criado  para por em pratica o conhecimento adquirido no curso de  CSS Flex Box, site totalmente responsivo.

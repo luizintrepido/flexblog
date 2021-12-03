@@ -1,7 +1,7 @@
 # flexblog
 
  
-💻 Sobre o projeto
+<h2>💻 Sobre o projeto</h2>
 Projeto criado  para por em pratica o conhecimento adquirido no curso de  CSS Flex Box, site totalmente responsivo.
 
  <h2>🚀Tecnologias</h2>

@@ -17,6 +17,7 @@ O layout do site foi desenvolvido durante o curso de CSS Flex Box da [Origamid](
 ## 🌐 Projeto final
 [Clique aqui](https://luizintrepido.github.io/flexblog/) para acessar o projeto no ar!
 
+![image](https://user-images.githubusercontent.com/93409913/144731479-68e04f84-015d-46a8-ae8c-69859f45e076.png)
 
 ---
 <p align="center">
